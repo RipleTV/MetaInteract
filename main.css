@@ -1,0 +1,47 @@
+body {
+    background: cornflowerblue;
+}
+
+.decreaseButton {
+    color: rgb(0, 0, 0);
+    background: azure;
+    font-family: monospace;
+    font-size: 30px;
+}
+.decreaseButton {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 65%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.increaseButton {
+    color: rgb(0, 0, 0);
+    background: azure;
+    font-family: monospace;
+    font-size: 30px;
+}
+.increaseButton {
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 35%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.headText {
+    color: azure;
+    font-family: monospace;
+    font-size: 40px;
+}
+.headText {
+    margin: 0;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
