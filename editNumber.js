@@ -1,4 +1,4 @@
-import numberArtifact from "../artifacts/contracts/dapp.sol/Counter.json" assert { type: "json" }
+import numberArtifact from "./Counter.json" assert { type: "json" }
 const numberAddr = '0x8Faa19f840AD214A4804606d06a396B2114F51D3'
 
     // connect to eth by provider (metamask)
